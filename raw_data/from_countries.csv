@@ -1,0 +1,537 @@
+from,from_countries
+Argentina,Argentina
+Argentina,Argentina
+Australia,Australia
+Azerbaijan,Azerbaijan
+Bangladesh,Bangladesh
+Bangladesh,Bangladesh
+Belgium,Belgium
+Brazil,Brazil
+"sofia, bg",Bulgaria
+Bulgaria,Bulgaria
+Cameroon,Cameroon
+Canada,Canada
+"ottawa, canada",Canada
+Canada,Canada
+"Toronto, London, India",Canada
+Toronto,Canada
+"Toronto, Canada",Canada
+Canada,Canada
+Chile,Chile
+Chile,Chile
+China,China
+China,China
+P. R. China,China
+china,China
+China,China
+China,China
+"Shanghai, China",China
+"Shanghai, China",China
+China,China
+China,China
+China,China
+"BEIJING, CHINA",China
+Colombia,Colombia
+"Bogota, Colombia",Colombia
+"Colombia, South America",Colombia
+Costa Rica,Costa Rica
+czech republic,Czechia
+Europe,Europe
+Canada,Florida
+France,France
+France,France
+France / New York,France
+France,France
+Paris,France
+France,France
+france,France
+France,France
+Germany,Germany
+Germany,Germany
+Germany,Germany
+Germany,Germany
+Greece,Greece
+Greece/Germany,Greece
+Greece,Greece
+Greece,Greece
+Hong Kong,Hong Kong
+Hong Kong,Hong Kong
+Hong Kong,Hong Kong
+Hong Kong,Hong Kong
+HKG,Hong Kong
+Budapest,Hungary
+Iceland,Iceland
+India/Venezuela,India
+India,India
+"India, Holland",India
+India,India
+India,India
+"New Delhi, India",India
+"Bombay, India",India
+"New Delhi, India",India
+India,India
+India,India
+india,India
+India,India
+India,India
+India and NJ,India
+Indonesia,Indonesia
+Born in Iran,Iran
+Israel,Israel
+Israel,Israel
+Israel,Israel
+Israel,Israel
+Israel,Israel
+Israel,Israel
+Italy,Italy
+"Ottawa, Canada",Italy
+Italy,Italy
+Italy,Italy
+"Milano, Italy",Italy
+Italy,Italy
+"Genova, Italy",Italy
+"Milan, Italy",Italy
+Italy,Italy
+Japan,Japan
+Tokyo and Texas,Japan
+japan,Japan
+"Tokyo, Japan",Japan
+Mexico,Mexico
+Mexico,Mexico
+Mexico,Mexico
+Mexico,Mexico
+Nepal,Nepal
+Panama,Panama
+Persia,Persia
+Italy,Philadephia
+Philippines,Philippines
+philippines,Philippines
+Philippines,Philippines
+"Manila, Philippines",Philippines
+"Warsaw, Poland",Poland
+poland,Poland
+Puerto Rico,Puerto Rico
+Romania,Romania
+Russia/Germany,Russia
+Russia,Russia
+Russia,Russia
+Russia,Russia
+Siberia,Siberia
+SIngapore,Singapore
+Singapore,Singapore
+"Asia, Singapore",Singapore
+Singapore,Singapore
+Singapore,Singapore
+SOUTH KOREA,South Korea
+Korea,South Korea
+Spain,Spain
+Spain,Spain
+spain,Spain
+Spain,Spain
+Spain,Spain
+Spain,Spain
+Sweden,Sweden
+Switzerland,Switzerland
+Taiwan,Taiwan
+taiwan,Taiwan
+"Taipei, Taiwan",Taiwan
+Taiwan,Taiwan
+Taiwan,Taiwan
+Taiwan,Taiwan
+Taiwan,Taiwan
+"London, England",UK
+England,UK
+England,UK
+"London, England",UK
+England,UK
+UK/Turkey,UK
+Texas/London,UK
+UK,UK
+London & New York,UK
+Uruguay,Uruguay
+uruguay,Uruguay
+Chicago,USA
+Alabama,USA
+Connecticut,USA
+Texas,USA
+Bowdoin College,USA
+MD,USA
+Southern California,USA
+"Palm Springs, California",USA
+94115,USA
+Southern California,USA
+"Cincinnati, Ohio",USA
+Miami,USA
+Milan - Italy,USA
+"Georgia, USA",USA
+New York,USA
+california,USA
+Washington DC,USA
+New Jersey,USA
+"Ann Arbor, MI",USA
+new york,USA
+Iowa,USA
+California,USA
+"Westchester, NY",USA
+"Washington, DC",USA
+Boston,USA
+"Washington, DC",USA
+new jersey,USA
+Michigan,USA
+Brandeis University,USA
+"Cincinnati, OH",USA
+New York,USA
+Los Angeles,USA
+"SF Bay Area, CA",USA
+San Francisco(home)/Los Angeles(undergrad),USA
+Philadelphia,USA
+Houston,USA
+Philadelphia,USA
+Brooklyn,USA
+Boston,USA
+New York,USA
+California,USA
+Florida,USA
+New Jersey,USA
+"Tuscaloosa, Alabama",USA
+"Albuquerque, NM",USA
+"Palo Alto, California",USA
+New York,USA
+"Boston, MA",USA
+"Torrance, CA",USA
+"St. Louis, MO",USA
+"London, UK",USA
+"Boston, MA",USA
+Minnesota,USA
+"Boston, MA",USA
+Chicago,USA
+Philadelphia,USA
+Ohio,USA
+Minnesota,USA
+Texas,USA
+Washington State,USA
+Arizona,USA
+"Minneapolis, MN",USA
+NJ,USA
+NY,USA
+California,USA
+San Francisco,USA
+Long Island,USA
+"Brooklyn, NY",USA
+"Cincinnati, Ohio",USA
+New York,USA
+Chicago,USA
+Colorado,USA
+Texas,USA
+"Ann Arbor, MI",USA
+Ann Arbor,USA
+New Jersey,USA
+"Milwaukee, Wisconsin",USA
+New York,USA
+brooklyn ny,USA
+"Long Island, NY",USA
+"Long Island, NY",USA
+"Memphis, TN",USA
+Long Island,USA
+Louisiana,USA
+Maryland,USA
+Staten Island,USA
+"New York, NY",USA
+Massachusetts,USA
+Connecticut,USA
+New Jersey,USA
+New York,USA
+Los Angeles,USA
+Pougkeepsie NY,USA
+New York,USA
+"Greenwich, CT",USA
+california,USA
+Albania,USA
+PA,USA
+Minnesota,USA
+New York,USA
+"Cherry Hill, NJ",USA
+Minneapolis,USA
+NYC,USA
+NYC,USA
+"Philadelphia, PA",USA
+"Atlanta, GA",USA
+Cleveland,USA
+NYC (Staten Island),USA
+North Carolina,USA
+North Carolina,USA
+"State College, PA",USA
+Minnesota,USA
+Los Angeles,USA
+Detroit,USA
+Washington DC Metro Region,USA
+colorado,USA
+"Berkeley, CA",USA
+"Buffalo, NY",USA
+NJ,USA
+Pennsylvania,USA
+Ohio,USA
+California,USA
+"San Diego, CA",USA
+New York,USA
+California,USA
+"Brooklyn, NY",USA
+New Jersey,USA
+Nebraska,USA
+Queens,USA
+Kansas,USA
+nyc,USA
+Atlanta,USA
+Connecticut,USA
+"Los Angeles, CA",USA
+new york city,USA
+New York,USA
+"Rochester, NY",USA
+Berkeley,USA
+New York,USA
+Northern California,USA
+New York,USA
+"Silver Spring, MD",USA
+Vestal,USA
+Texas & Boston,USA
+New Jersey,USA
+PA,USA
+New York,USA
+Atlanta,USA
+New York City,USA
+New York Area/ New Jersey,USA
+Philadelphia,USA
+Baltimore,USA
+San Francisco,USA
+Houston,USA
+DC,USA
+Wash DC (4 yrs),USA
+Colombia,USA
+Pittsburgh,USA
+New York,USA
+New York,USA
+"Detroit, Michigan, USA",USA
+"Los Angeles, CA",USA
+"Washington, DC",USA
+Virginia,USA
+"Boston, MA",USA
+Indiana,USA
+lOS aNGELES,USA
+Wisconsin,USA
+"Born in Montana, raised in South Jersey (nr. Philadelphia)",USA
+New York,USA
+"Portland, Oregon",USA
+Seattle,USA
+"Lexington, MA",USA
+"brooklyn, ny",USA
+San Francisco,USA
+"Boulder, Colorado",USA
+Maryland,USA
+Northern Virginia,USA
+I am from NYC,USA
+Seattle,USA
+Texas,USA
+"Malaysia, then Massachusetts",USA
+"Katonah, NY (more recently, Boston)",USA
+"Brooklyn, NY",USA
+"Washington, D.C.",USA
+New York,USA
+new york city,USA
+Texas,USA
+New Jersey,USA
+New York,USA
+"New Hope, PA",USA
+Connecticut,USA
+"boston, ma",USA
+"Las Vegas, Nevada",USA
+UNCC,USA
+Boston,USA
+"Washington, DC",USA
+California,USA
+New Jersey,USA
+New York City,USA
+Northern New Jersey,USA
+New York City,USA
+Arizona,USA
+New York,USA
+Texas,USA
+"Buffalo, NY",USA
+Maryland,USA
+"Buffalo, NY",USA
+"Washington, DC",USA
+Long Island,USA
+"Brooklyn, NY",USA
+NYC-6 yrs. Grew up in Nebraska,USA
+Virginia,USA
+"Cambridge, Massachusetts",USA
+NYC,USA
+NJ,USA
+New York,USA
+NYC,USA
+Boston,USA
+Philadelphia,USA
+New Jersey,USA
+Pennsylvania,USA
+"Erie, PA",USA
+New York,USA
+"Westchester, new York",USA
+USA/American,USA
+NYC,USA
+"Great Neck, NY",USA
+California (West Coast),USA
+New Jersey,USA
+"Portland, OR",USA
+New York/South Korea/Japan,USA
+Michigan,USA
+Miami,USA
+"Dallas, Texas",USA
+New Jersey,USA
+"Palo Alto, CA",USA
+New York,USA
+New Mexico,USA
+Brooklyn,USA
+"WASHINGTON, D.C.",USA
+CALIFORNIA,USA
+New York,USA
+New Jersey,USA
+Manhattan,USA
+NJ,USA
+Pennsylvania,USA
+"atlanta, ga",USA
+California and New York,USA
+California,USA
+Bronx Science,USA
+"nashville, TN",USA
+Miami,USA
+"Boston, MA",USA
+New York,USA
+Chicago,USA
+Midwest USA,USA
+los angeles,USA
+new york,USA
+Wisconsin,USA
+"NYC, San Francisco",USA
+Chicago,USA
+California,USA
+New York City,USA
+Massachusetts,USA
+Connecticut,USA
+Oregon,USA
+New York,USA
+New Jersey,USA
+"San Francisco, CA",USA
+Florida and Virginia,USA
+Maryland,USA
+"New York, NY",USA
+Long Island,USA
+San Francisco Bay Area,USA
+Los Angeles,USA
+Hawaii and Los Angeles,USA
+New Jersey,USA
+Chicago,USA
+New York City,USA
+Minneapolis,USA
+New Jersey,USA
+NYC,USA
+"Austin, TX",USA
+Washington DC,USA
+New Jersey,USA
+"Woburn, MA",USA
+New Jersey,USA
+"Atlanta, GA",USA
+Miami,USA
+New York,USA
+Colorado,USA
+Indiana,USA
+California,USA
+Florida,USA
+TN,USA
+"New York, NY",USA
+New Jersey,USA
+California,USA
+New York,USA
+"Pittsburgh, PA",USA
+California,USA
+Southern California,USA
+"Hastings-on-Hudson, NY",USA
+Northern California,USA
+Maryland,USA
+New Jersey,USA
+California,USA
+North Carolina,USA
+California,USA
+Baltimore,USA
+Boston,USA
+New York,USA
+"Los Angeles, CA",USA
+"Burlington, Vermont",USA
+New York City,USA
+New York,USA
+California,USA
+NJ,USA
+"Santa Barbara, California",USA
+New York City,USA
+"Cincinnati, Ohio",USA
+"Cambridge, MA",USA
+new york,USA
+"CT, FL, TN",USA
+Detroit suburbs,USA
+south carolina,USA
+"California, New Jersey",USA
+California,USA
+alabama,USA
+San Francisco,USA
+California,USA
+Washington DC,USA
+colorado,USA
+New Jersey,USA
+"Westchester County, N.Y.",USA
+Florida,USA
+Los Angeles,USA
+"South Orange, New Jersey",USA
+New Jersey,USA
+Northern New Jersey,USA
+New Jersey,USA
+new york,USA
+Boston,USA
+Miami,USA
+Indiana,USA
+"Boston, Ma",USA
+Baltimore,USA
+New York,USA
+"Kansas City, Missouri",USA
+Upstate New York,USA
+Boston,USA
+California,USA
+Maryland,USA
+California,USA
+Florida,USA
+New York,USA
+"Cambridge, MA",USA
+Florida,USA
+New York,USA
+Kansas,USA
+California,USA
+San Diego,USA
+Boston,USA
+Hawaii,USA
+Salt Lake City,USA
+Pennsylvania,USA
+Michigan,USA
+"Saratoga, NY",USA
+New Jersey,USA
+California,USA
+NYC,USA
+California,USA
+Maryland,USA
+San Francisco/LA,USA
+San Diego,USA
+San Francisco,USA
+New York City,USA
+Uzbekistan,Uzbekistan
+Yugoslavia,Yugoslavia
+,Unknown
+J.P. Morgan,Unknown
+International Student,Unknown
+way too little space here. world citizen.,Unknown
+working,Unknown
